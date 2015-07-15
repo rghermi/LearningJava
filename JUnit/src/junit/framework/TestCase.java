@@ -42,6 +42,8 @@ import java.lang.reflect.*;
  *            testAdd();
  *        }
  * };
+ * 
+ * 
  * test.run();
  * </pre>
  * The dynamic way uses reflection to implement <code>runTest</code>. It dynamically finds
