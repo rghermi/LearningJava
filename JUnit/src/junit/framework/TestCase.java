@@ -113,6 +113,7 @@ public abstract class TestCase extends Assert implements Test {
 		run(result);
 		return result;
 	}
+	
 	/**
 	 * Runs the test case and collects the results in TestResult.
 	 */
